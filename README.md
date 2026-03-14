@@ -8,7 +8,7 @@ I specialize in **Inverse Design**, **Physics-Informed Machine Learning**, and *
 
 ## 📚 Publications & Pre-prints
 
-### [SeqGPT: A Constrained Transformer Agent for the Inverse Design of Multi-Panel Composite Structures](https://lien-vers-ton-pdf-ou-arxiv.com)
+### [SeqGPT: A Constrained Transformer Agent for the Inverse Design of Multi-Panel Composite Structures](https://github.com/dchrn7/dchrn7/blob/main/APIA%202026_submission_8_paper_v4.pdf))
 *Submitted to **APIA 2026** (Conférence sur les Applications Pratiques de l'Intelligence Artificielle)* 
 
 **Authors:** D.Chraibi, A. G. Pis, S. Grihon, S. Zhang
