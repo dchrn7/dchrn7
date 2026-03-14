@@ -21,9 +21,9 @@ This work introduces **SeqGPT**, a conditional Transformer agent designed for th
 ---
 
 ## 🛠 Technical Focus
-* **Architectures:** Transformers, Generative Models (cGANs baselines), Graph-based modeling.
-* **Optimization:** Constrained Decoding, Beam Search, Search Propagation Direction (SPD).
-* **Scientific Computing:** PyTorch, Julia, R, FEniCS.
+* **AI & Scientific Computing**: Python (PyTorch), Julia, R, FEniCS, HPC (Slurm)
+* **Software & Tools**: OCaml, Ada, C++ (Basic), Git, Docker, Linux, LATEX
+* **Research Interests**: Neuro-Symbolic AI, Inverse Design, Scientific ML, Geometric Deep Learning
 
 ## 📫 Contact
 * **LinkedIn:** https://www.linkedin.com/in/driss-chraibi-88380a1a9/
