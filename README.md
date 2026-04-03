@@ -1,6 +1,6 @@
 # Hi there, I'm Driss Chraibi 👋
 
-**AI Research Engineer (Work-Study) @ Airbus | M.Sc. Student in Applied Mathematics & AI @ ModIA**
+**AI Engineer (Work-Study) @ Airbus | M.Sc. Student in Applied Mathematics & AI @ ModIA**
 
 I specialize in **Inverse Design**, **Physics-Informed Machine Learning**, and **Neuro-Symbolic AI**. My current work focuses on bridging the gap between continuous physical performance targets and discrete manufacturing constraints in aerospace engineering.
 
